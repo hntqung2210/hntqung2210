@@ -1,12 +1,12 @@
 ## Hello World 👋   
-  
+</hr>
 
-# 🟣 Hi, I'm Nguyen Quang (Winston Ho) ! 
-### WordPress Developer | Evangelion Fan | Coffee Addict
+# 🟣 Hi, I'm Nguyen Quang (Winston Ho)
+WordPress Developer | Evangelion Fan | Coffee Addict
 
 - 🛠️ **Expertise:** WordPress, PHP, JavaScript, SQL.
 - 🤖 **Status:** Syncing with Eva-01 (Working on cool projects).
-- ☕ **Fueling:** Americano ⬛ (Primary) | Bạc Xỉu ⬜ (Backup).
+- ☕ **Fueling:** Americano ⬛ (Primary) | White Coffee ⬜ (Backup).
 - 💬 **Ask me about:** WordPress themes, Plugins, or why Eva-01 is the best.
 
 ---
