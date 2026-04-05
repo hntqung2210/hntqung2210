@@ -9,12 +9,11 @@ WordPress Developer | Evangelion Fan | Coffee Addict
 - ☕ **Fueling:** Americano ⬛ (Primary) | White Coffee ⬜ (Backup).
 - 💬 **Ask me about:** WordPress themes, Plugins, or why Eva-01 is the best.
 
----
 "Get in the VSC, Weng. Or else someone else will have to fix your bug"
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set 
 <table><tr><td valign="top" width="33%">
 
 
