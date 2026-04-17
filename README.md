@@ -5,7 +5,7 @@
 WordPress Developer | Evangelion Fan | Coffee Addict
 
 - 🛠️ **Expertise:** WordPress, PHP, JavaScript, SQL.
-- 🤖 **Status:** Syncing with Eva-01 (Working on cool projects).
+- 🤖 **Status:** Syncing with Code (or nothing sometime :D ).
 - ☕ **Fueling:** Americano ⬛ (Primary) | White Coffee ⬜ (Backup).
 - 💬 **Ask me about:** WordPress themes, Plugins, or why Eva-01 is the best.
 
